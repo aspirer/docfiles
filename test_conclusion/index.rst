@@ -9,7 +9,7 @@
 * 审核时间:
 
 .. note::
-   本文档整理自 `性能测试文档 <http://doc.hz.netease.com/pages/viewpage.action?pageId=35292773>`_ 页面中的相关文档
+   本文档整理自 `性能测试文档 <http://doc.hz.netease.com/pages/viewpage.action?pageId=35292773>`_ 页面中的相关文档，本文档仅描述结论及其依据，具体的测试过程、工具、用例等请参考原始文档
 
 .. toctree::
    :maxdepth: 2

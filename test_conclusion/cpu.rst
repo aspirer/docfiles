@@ -19,7 +19,7 @@ CPU性能测试结论
 
 * 上述结论根据表格1中数据得出
 
-.. figure:: images/table_1.png
+.. figure:: images/cpu_table_1.png
     :align:	center
 
 
@@ -32,12 +32,12 @@ CPU性能测试结论
 
 * 上述结论根据表格2、3中数据得出
 
-.. figure:: images/table_2.png
+.. figure:: images/cpu_table_2.png
     :align: center
 
 |
 
-.. figure:: images/table_3.png
+.. figure:: images/cpu_table_3.png
     :align: center
 
 * 虚拟机100%负荷下（宿主机整体负荷为48/112），一一绑定和随机绑定的虚拟机性能值总和差不多。但一一绑定的时候，存在相同Ecu配置的虚拟机由于绑定关系的原因而性能不一致
@@ -46,14 +46,14 @@ CPU性能测试结论
 
 * 上述结论根据表格4中数据得出
 
-.. figure:: images/table_4.png
+.. figure:: images/cpu_table_4.png
     :align: center
 
 * 随机绑定，不论何种负荷下，随机绑定中，性能值与Ecu间的不成比例现象都存在，问题与负荷无关
 
 * 上述结论根据表格5中数据得出
 
-.. figure:: images/table_5.png
+.. figure:: images/cpu_table_5.png
     :align: center
 
 
@@ -61,7 +61,7 @@ CPU性能测试结论
 
 * 上述结论根据表格6中数据得出
 
-.. figure:: images/table_6.png
+.. figure:: images/cpu_table_6.png
     :align: center
 
 
